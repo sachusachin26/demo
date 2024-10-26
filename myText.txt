@@ -4,7 +4,16 @@
 
 3) branch -> development, testing, production , etc...
 
-4) Stages ->  Working directory, Staging Area, Local Repository
+4) Stages ->  
+	Working directory -> git init , creating files/folders 
 
+	Staging Area      -> git add <filename>
 
+	Local Repository  -> git commit -m "commit message"
+
+5) git status -> checking files changes in working directory to staging area.
+
+6) git log -> checking all commits
+
+7) git show <commit_id> -> viewing all details about particular commit 
 
