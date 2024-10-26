@@ -1,0 +1,10 @@
+1) Git 
+
+2) repository -> Local, Cloud
+
+3) branch -> development, testing, production , etc...
+
+4) Stages ->  Working directory, Staging Area, Local Repository
+
+
+
